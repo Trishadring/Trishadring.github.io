@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: Trishadring.github.io
+Token: 5fcf4ceeb66ec1027a111f5b06bd01830992599ab6ae1e4a41af47e0930b0a8e
